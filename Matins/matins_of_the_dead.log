@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  18 JAN 2023 23:37
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  21 JAN 2023 02:09
  system commands enabled.
 **matins_of_the_dead.tex
 (./matins_of_the_dead.tex
@@ -1046,16 +1046,10 @@ Sidefoothsep and sidefootwidth: 7pt and 128pt
 Sidefootvsep and sidefootheight: 12pt and 548.39996pt
 ******************************************************
 
-) (./matins_of_the_dead.aux
-
-Package babel Warning: Unknown language `latin'. Very likely you
-(babel)                requested it in a previous run. Expect some
-(babel)                wrong results in this run, which should vanish
-(babel)                in the next one. Reported on input line 6.
-
 )
-\openout1 = matins_of_the_dead.aux
+No file matins_of_the_dead.aux.
 
+\openout1 = matins_of_the_dead.aux
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
@@ -1067,7 +1061,7 @@ LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3.
 
- (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 3.
@@ -1391,15 +1385,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 29184 strings out of 481365
+ 29180 strings out of 481365
  244175,794899 words of node,token memory allocated
- 2872 words of node memory still in use:
-   4 hlist, 5 vlist, 1 rule, 52 glue, 3 kern, 3 glyph, 412 attribute, 272 glue_s
-pec, 61 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:8,2:32018,3:3569,4:42,5:4654,6:294,7:6219,8:2,9:5735,10:27,11:
-1
- 45654 multiletter control sequences out of 65536+600000
- 81 fonts using 9628203 bytes
+ 3163 words of node memory still in use:
+   4 hlist, 5 vlist, 1 rule, 64 glue, 3 kern, 3 glyph, 496 attribute, 275 glue_s
+pec, 73 attribute_list, 2 write, 1 user_defined nodes
+   avail lists: 1:8,2:31922,3:3569,4:42,5:4651,6:294,7:6207,8:2,9:5735,10:27,11:
+2
+ 45653 multiletter control sequences out of 65536+600000
+ 81 fonts using 9628859 bytes
  51i,12n,72p,1456b,2476s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/share/texmf/fonts/truetype/public/gregoriotex/greciliae-hollow.ttf><
 /usr/local/share/texmf/fonts/truetype/public/gregoriotex/greciliae-hole.ttf></us
@@ -1409,7 +1403,7 @@ exmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texmf-dist/fonts/
 type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bit
 strea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea/cha
 rter/bchri8a.pfb>
-Output written on matins_of_the_dead.pdf (8 pages, 96038 bytes).
+Output written on matins_of_the_dead.pdf (8 pages, 97983 bytes).
 
 PDF statistics: 70 PDF objects out of 1000 (max. 8388607)
  44 compressed objects within 1 object stream
