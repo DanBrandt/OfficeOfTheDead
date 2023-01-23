@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  22 JAN 2023 23:22
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  23 JAN 2023 08:02
  system commands enabled.
 **matins_of_the_dead.tex
 (./matins_of_the_dead.tex
@@ -1690,24 +1690,13 @@ Underfull \hbox (badness 3930) in paragraph at lines 1111--1111
  []
 
 
-Overfull \hbox (10.54341pt too wide) in paragraph at lines 1111--1111
-\T1/mdbch/m/n/10 conversatióne commísit, tu vénia misericordíssimæpietáti
-s
+Underfull \hbox (badness 3492) in paragraph at lines 1111--1111
+\T1/mdbch/m/n/10 pietátis abstérge. Per Dóminum nostrum Jesum
  []
 
 
-Underfull \hbox (badness 1424) in paragraph at lines 1111--1111
-\T1/mdbch/m/n/10 abstérge. Per Dóminum nostrum Jesum Christum
- []
-
-
-Underfull \hbox (badness 1394) in paragraph at lines 1111--1111
-\T1/mdbch/m/n/10 Fílium tuum, qui tecum vivit et regnat in unitáte
- []
-
-
-Overfull \hbox (0.49814pt too wide) in paragraph at lines 1125--1125
-\T1/mdbch/m/n/10 súpplices exorámus pro ánima fámuli tui N. (fámulætuæ
+Underfull \hbox (badness 2547) in paragraph at lines 1111--1111
+\T1/mdbch/m/n/10 Christum Fílium tuum, qui tecum vivit et regnat
  []
 
 
@@ -1730,22 +1719,32 @@ Underfull \hbox (badness 1742) in paragraph at lines 1139--1139
 \T1/mdbch/m/n/10 et rorem misericórdiætuæperénnem infúndas. Per
  []
 
-[19] (./matins_of_the_dead.aux)
+
+Overfull \hbox (5.2253pt too wide) in paragraph at lines 1153--1153
+\T1/mdbch/m/n/10 (fámulæ tuæ N., vel animábus famulórum famalurúmque
+ []
+
+[19]
+Underfull \hbox (badness 2134) in paragraph at lines 1169--1169
+\T1/mdbch/m/n/10 N. ineffábili tua dispositióne connumerári voluísti:
+ []
+
+[20] (./matins_of_the_dead.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 )
 
 Here is how much of LuaTeX's memory you used:
- 29332 strings out of 481365
+ 29336 strings out of 481365
  244180,794899 words of node,token memory allocated
- 5223 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 154 glue, 3 kern, 3 glyph, 1098 attribute, 293 glue
-_spec, 159 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:6,2:31234,3:3569,4:42,5:4634,6:294,7:6297,8:2,9:5739,10:27,11:
+ 5734 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 176 glue, 3 kern, 3 glyph, 1252 attribute, 294 glue
+_spec, 181 attribute_list, 2 write, 1 user_defined nodes
+   avail lists: 1:6,2:31058,3:3569,4:42,5:4633,6:294,7:6275,8:2,9:5739,10:27,11:
 4
  45654 multiletter control sequences out of 65536+600000
- 81 fonts using 9635419 bytes
+ 81 fonts using 9636731 bytes
  51i,12n,72p,1456b,2476s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/share/texmf/fonts/truetype/public/gregoriotex/greciliae-hollow.ttf><
 /usr/local/share/texmf/fonts/truetype/public/gregoriotex/greciliae-hole.ttf></us
@@ -1756,10 +1755,10 @@ type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bit
 strea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea/cha
 rter/bchri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesign/md
 bch/md-chri8t.pfb>
-Output written on matins_of_the_dead.pdf (19 pages, 156855 bytes).
+Output written on matins_of_the_dead.pdf (20 pages, 158893 bytes).
 
-PDF statistics: 109 PDF objects out of 1000 (max. 8388607)
- 71 compressed objects within 1 object stream
+PDF statistics: 112 PDF objects out of 1000 (max. 8388607)
+ 73 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
