@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  28 JAN 2023 16:20
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  29 JAN 2023 23:29
  system commands enabled.
 **lauds_of_the_dead.tex
 (./lauds_of_the_dead.tex
@@ -1219,35 +1219,314 @@ n input line 103
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [2] (./lauds_of_
-the_dead.aux)
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Module gregoriotex Info: Looking in  on input line 112
+Module gregoriotex Info: Found antiphon_exaudi_domine.gabc directly on input lin
+e 112
+Module gregoriotex Info: Looking in  on input line 112
+Module gregoriotex Info: Found antiphon_exaudi_domine-6_0_0.gtex directly on inp
+ut line 112
+ (./antiphon_exaudi_domine-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Module gregoriotex Info: Looking in  on input line 117
+Module gregoriotex Info: Found intonation_psalm_64.gabc directly on input line 1
+17
+Module gregoriotex Info: Looking in  on input line 117
+Module gregoriotex Info: Found intonation_psalm_64-6_0_0.gtex directly on input 
+line 117
+ (./intonation_psalm_64-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Underfull \hbox (badness 1371) in paragraph at lines 178--178
+[]\T1/mdbch/m/n/10 5. Replébimur in bonis domus tuæ, sanctum est
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 178--178
+[]\T1/mdbch/m/n/10 8. Turbabúntur Gentes, et timébunt qui hábitant
+ []
+
+[2
+Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
+]
+Module gregoriotex Info: Looking in  on input line 182
+Module gregoriotex Info: Found antiphon_exaudi_domine.gabc directly on input lin
+e 182
+Module gregoriotex Info: Looking in  on input line 182
+Module gregoriotex Info: Found antiphon_exaudi_domine-6_0_0.gtex directly on inp
+ut line 182
+ (./antiphon_exaudi_domine-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Module gregoriotex Info: Looking in  on input line 191
+Module gregoriotex Info: Found antiphon_me_suscepit.gabc directly on input line 
+191
+Module gregoriotex Info: Looking in  on input line 191
+Module gregoriotex Info: Found antiphon_me_suscepit-6_0_0.gtex directly on input
+ line 191
+ (./antiphon_me_suscepit-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Module gregoriotex Info: Looking in  on input line 196
+Module gregoriotex Info: Found intonation_psalm_62.gabc directly on input line 1
+96
+Module gregoriotex Info: Looking in  on input line 196
+Module gregoriotex Info: Found intonation_psalm_62-6_0_0.gtex directly on input 
+line 196
+
+(./intonation_psalm_62-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [3]
+Module gregoriotex Info: Looking in  on input line 245
+Module gregoriotex Info: Found antiphon_me_suscepit.gabc directly on input line 
+245
+Module gregoriotex Info: Looking in  on input line 245
+Module gregoriotex Info: Found antiphon_me_suscepit-6_0_0.gtex directly on input
+ line 245
+ (./antiphon_me_suscepit-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Module gregoriotex Info: Looking in  on input line 254
+Module gregoriotex Info: Found antiphon_a_porta_inferi.gabc directly on input li
+ne 254
+Module gregoriotex Info: Looking in  on input line 254
+Module gregoriotex Info: Found antiphon_a_porta_inferi-6_0_0.gtex directly on in
+put line 254
+
+(./antiphon_a_porta_inferi-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Module gregoriotex Info: Looking in  on input line 259
+Module gregoriotex Info: Found intonation_canticum_ezechiae.gabc directly on inp
+ut line 259
+Module gregoriotex Info: Looking in  on input line 259
+Module gregoriotex Info: Found intonation_canticum_ezechiae-6_0_0.gtex directly 
+on input line 259
+
+(./intonation_canticum_ezechiae-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [4
+Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
+]
+Module gregoriotex Info: Looking in  on input line 328
+Module gregoriotex Info: Found antiphon_a_porta_inferi.gabc directly on input li
+ne 328
+Module gregoriotex Info: Looking in  on input line 328
+Module gregoriotex Info: Found antiphon_a_porta_inferi-6_0_0.gtex directly on in
+put line 328
+
+(./antiphon_a_porta_inferi-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Module gregoriotex Info: Looking in  on input line 337
+Module gregoriotex Info: Found antiphon_omnis_spiritus.gabc directly on input li
+ne 337
+Module gregoriotex Info: Looking in  on input line 337
+Module gregoriotex Info: Found antiphon_omnis_spiritus-6_0_0.gtex directly on in
+put line 337
+ (./antiphon_omnis_spiritus-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Module gregoriotex Info: Looking in  on input line 342
+Module gregoriotex Info: Found intonation_psalm_150.gabc directly on input line 
+342
+Module gregoriotex Info: Looking in  on input line 342
+Module gregoriotex Info: Found intonation_psalm_150-6_0_0.gtex directly on input
+ line 342
+
+(./intonation_psalm_150-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [5]
+Underfull \hbox (badness 1092) in paragraph at lines 367--367
+[]\T1/mdbch/m/n/10 6. Requiem æternam dona \T1/mdbch/b/n/10 e\T1/mdbch/m/n/10 
+is, \T1/mdbch/b/n/10 Do\T1/mdbch/m/n/10 mine * Et lux
+ []
+
+Module gregoriotex Info: Looking in  on input line 371
+Module gregoriotex Info: Found antiphon_omnis_spiritus.gabc directly on input li
+ne 371
+Module gregoriotex Info: Looking in  on input line 371
+Module gregoriotex Info: Found antiphon_omnis_spiritus-6_0_0.gtex directly on in
+put line 371
+(./antiphon_omnis_spiritus-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Module gregoriotex Info: Looking in  on input line 392
+Module gregoriotex Info: Found antiphon_ego_sum.gabc directly on input line 392
+Module gregoriotex Info: Looking in  on input line 392
+Module gregoriotex Info: Found antiphon_ego_sum-6_0_0.gtex directly on input lin
+e 392
+ (./antiphon_ego_sum-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Module gregoriotex Info: Looking in  on input line 397
+Module gregoriotex Info: Found intonation_canticum_zechariae.gabc directly on in
+put line 397
+Module gregoriotex Info: Looking in  on input line 397
+Module gregoriotex Info: Found intonation_canticum_zechariae-6_0_0.gtex directly
+ on input line 397
+
+(./intonation_canticum_zechariae-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [6
+Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
+]
+Module gregoriotex Info: Looking in  on input line 454
+Module gregoriotex Info: Found antiphon_ego_sum.gabc directly on input line 454
+Module gregoriotex Info: Looking in  on input line 454
+Module gregoriotex Info: Found antiphon_ego_sum-6_0_0.gtex directly on input lin
+e 454
+ (./antiphon_ego_sum-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 527.
+LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
+(Font)              scaled to size 11.52008pt on input line 527.
+ [7]
+Underfull \hbox (badness 3930) in paragraph at lines 540--540
+\T1/mdbch/m/n/10 Absolve, qu[]æsumus, Dómine, ánimam fámuli tui
+ []
+
+
+Underfull \hbox (badness 3492) in paragraph at lines 540--540
+\T1/mdbch/m/n/10 pietátis abstérge. Per Dóminum nostrum Jesum
+ []
+
+
+Underfull \hbox (badness 2547) in paragraph at lines 540--540
+\T1/mdbch/m/n/10 Christum Fílium tuum, qui tecum vivit et regnat
+ []
+
+
+Underfull \hbox (badness 3148) in paragraph at lines 554--554
+\T1/mdbch/m/n/10 ætérna possídeat. Per Dóminum nostrum Iesum
+ []
+
+
+Underfull \hbox (badness 2547) in paragraph at lines 554--554
+\T1/mdbch/m/n/10 Christum Fílium tuum, qui tecum vivit et regnat
+ []
+
+
+Overfull \hbox (1.99376pt too wide) in paragraph at lines 568--568
+\T1/mdbch/m/n/10 séptimum, vel trigésimum) commemorámus, sanctórum
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 568--568
+\T1/mdbch/m/n/10 et rorem misericórdiætuæperénnem infúndas. Per
+ []
+
+
+Overfull \hbox (5.2253pt too wide) in paragraph at lines 582--582
+\T1/mdbch/m/n/10 (fámulæ tuæ N., vel animábus famulórum famalurúmque
+ []
+
+[8]
+Underfull \hbox (badness 2134) in paragraph at lines 598--598
+\T1/mdbch/m/n/10 N. ineffábili tua dispositióne connumerári voluísti:
+ []
+
+
+Underfull \hbox (badness 2547) in paragraph at lines 616--616
+\T1/mdbch/m/n/10 Christum Fílium tuum, qui tecum vivit et regnat
+ []
+
+[9]
+Underfull \hbox (badness 2547) in paragraph at lines 673--673
+\T1/mdbch/m/n/10 Christum Fílium tuum, qui tecum vivit et regnat
+ []
+
+
+Underfull \hbox (badness 1776) in paragraph at lines 703--703
+\T1/mdbch/m/n/10 in pacis ac lucis regióne constítuas, et sanctórum
+ []
+
+[10]
+Underfull \hbox (badness 4927) in paragraph at lines 731--731
+\T1/mdbch/m/n/10 Deus, véniæ largítor et humánæ salútis amátor:
+ []
+
+
+Underfull \hbox (badness 2495) in paragraph at lines 744--744
+\T1/mdbch/m/n/10 eorúmque peccata dimítte; meque eos in ætérnæ
+ []
+
+
+Underfull \hbox (badness 4193) in paragraph at lines 784--784
+\T1/mdbch/m/n/10 Fidelium, Deus, ómnium Cónditor et Redémptor,
+ []
+
+
+Overfull \hbox (10.031pt too wide) in paragraph at lines 784--784
+\T1/mdbch/m/n/10 animábus famulórum famularúmque tuárum remissiónem
+ []
+
+[11] [12] (./lauds_of_the_dead.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 )
 
 Here is how much of LuaTeX's memory you used:
- 29078 strings out of 481365
+ 29226 strings out of 481365
  100000,794899 words of node,token memory allocated
- 1502 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 3 glyph, 34 attribute, 248 glue_spe
-c, 7 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:2,2:7295,3:545,4:6,5:801,6:107,7:5075,8:2,9:906,10:4,11:4
- 45650 multiletter control sequences out of 65536+600000
- 74 fonts using 9201819 bytes
- 51i,12n,60p,844b,816s stack positions out of 5000i,500n,10000p,200000b,100000s
-</usr/local/share/texmf/fonts/truetype/public/gregoriotex/greextra.ttf></usr/loc
-al/share/texmf/fonts/truetype/public/gregoriotex/greciliae-hollow.ttf></usr/loca
-l/share/texmf/fonts/truetype/public/gregoriotex/greciliae-hole.ttf></usr/local/s
-hare/texmf/fonts/truetype/public/gregoriotex/greciliae.ttf>{/usr/share/texlive/t
-exmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texmf-dist/fonts/
+ 7252 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 242 glue, 3 kern, 3 glyph, 1714 attribute, 294 glue
+_spec, 247 attribute_list, 2 write, 1 user_defined nodes
+   avail lists: 1:2,2:12169,3:1094,4:18,5:1551,6:156,7:4841,8:2,9:1885,10:17,11:
+5
+ 45654 multiletter control sequences out of 65536+600000
+ 81 fonts using 9637387 bytes
+ 51i,12n,64p,844b,1448s stack positions out of 5000i,500n,10000p,200000b,100000s
+Module gregoriotex Info: Writing lauds_of_the_dead.gaux on input line 0
+Module gregoriotex Warning: Line heights or variable brace lengths may have chan
+ged. Rerun to fix. on input line 0
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/local/shar
+e/texmf/fonts/truetype/public/gregoriotex/greextra.ttf></usr/local/share/texmf/f
+onts/truetype/public/gregoriotex/greciliae-hollow.ttf></usr/local/share/texmf/fo
+nts/truetype/public/gregoriotex/greciliae-hole.ttf></usr/local/share/texmf/fonts
+/truetype/public/gregoriotex/greciliae.ttf></usr/share/texlive/texmf-dist/fonts/
 type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bit
-strea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea/cha
-rter/bchri8a.pfb>
-Output written on lauds_of_the_dead.pdf (2 pages, 60760 bytes).
+strea/charter/bchbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea/ch
+arter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bch
+ri8a.pfb>
+Output written on lauds_of_the_dead.pdf (12 pages, 123930 bytes).
 
-PDF statistics: 52 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+PDF statistics: 88 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
