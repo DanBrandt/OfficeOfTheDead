@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  29 JAN 2023 23:29
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  30 JAN 2023 23:36
  system commands enabled.
 **lauds_of_the_dead.tex
 (./lauds_of_the_dead.tex
@@ -1489,31 +1489,35 @@ Underfull \hbox (badness 4193) in paragraph at lines 784--784
 \T1/mdbch/m/n/10 Fidelium, Deus, ómnium Cónditor et Redémptor,
  []
 
-
-Overfull \hbox (10.031pt too wide) in paragraph at lines 784--784
-\T1/mdbch/m/n/10 animábus famulórum famularúmque tuárum remissiónem
- []
-
-[11] [12] (./lauds_of_the_dead.aux)
+[11]
+Module gregoriotex Info: Looking in  on input line 806
+Module gregoriotex Info: Found requiescant_in_pace.gabc directly on input line 8
+06
+Module gregoriotex Info: Looking in  on input line 806
+Module gregoriotex Info: Found requiescant_in_pace-6_0_0.gtex directly on input 
+line 806
+ (./requiescant_in_pace-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [12] (./lauds_of
+_the_dead.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 )
 
 Here is how much of LuaTeX's memory you used:
- 29226 strings out of 481365
+ 29234 strings out of 481365
  100000,794899 words of node,token memory allocated
- 7252 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 242 glue, 3 kern, 3 glyph, 1714 attribute, 294 glue
-_spec, 247 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:2,2:12169,3:1094,4:18,5:1551,6:156,7:4841,8:2,9:1885,10:17,11:
+ 7068 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 234 glue, 3 kern, 3 glyph, 1658 attribute, 294 glue
+_spec, 239 attribute_list, 2 write, 1 user_defined nodes
+   avail lists: 1:2,2:12233,3:1094,4:17,5:1551,6:156,7:4849,8:2,9:1885,10:16,11:
 5
  45654 multiletter control sequences out of 65536+600000
- 81 fonts using 9637387 bytes
+ 81 fonts using 9637715 bytes
  51i,12n,64p,844b,1448s stack positions out of 5000i,500n,10000p,200000b,100000s
-Module gregoriotex Info: Writing lauds_of_the_dead.gaux on input line 0
-Module gregoriotex Warning: Line heights or variable brace lengths may have chan
-ged. Rerun to fix. on input line 0
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/local/shar
 e/texmf/fonts/truetype/public/gregoriotex/greextra.ttf></usr/local/share/texmf/f
 onts/truetype/public/gregoriotex/greciliae-hollow.ttf></usr/local/share/texmf/fo
@@ -1523,7 +1527,7 @@ type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bit
 strea/charter/bchbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea/ch
 arter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bch
 ri8a.pfb>
-Output written on lauds_of_the_dead.pdf (12 pages, 123930 bytes).
+Output written on lauds_of_the_dead.pdf (12 pages, 124247 bytes).
 
 PDF statistics: 88 PDF objects out of 1000 (max. 8388607)
  57 compressed objects within 1 object stream

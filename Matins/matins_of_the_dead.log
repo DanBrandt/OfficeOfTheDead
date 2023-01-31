@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  29 JAN 2023 23:38
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  30 JAN 2023 23:36
  system commands enabled.
 **matins_of_the_dead.tex
 (./matins_of_the_dead.tex
@@ -1753,27 +1753,34 @@ Underfull \hbox (badness 4193) in paragraph at lines 1425--1425
 \T1/mdbch/m/n/10 Fidelium, Deus, ómnium Cónditor et Redémptor,
  []
 
-
-Overfull \hbox (10.031pt too wide) in paragraph at lines 1425--1425
-\T1/mdbch/m/n/10 animábus famulórum famularúmque tuárum remissiónem
- []
-
-[23] [24] (./matins_of_the_dead.aux)
+[23]
+Module gregoriotex Info: Looking in  on input line 1447
+Module gregoriotex Info: Found requiescant_in_pace.gabc directly on input line 1
+447
+Module gregoriotex Info: Looking in  on input line 1447
+Module gregoriotex Info: Found requiescant_in_pace-6_0_0.gtex directly on input 
+line 1447
+ (./requiescant_in_pace-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [24] (./matins_o
+f_the_dead.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 )
 
 Here is how much of LuaTeX's memory you used:
- 29358 strings out of 481365
+ 29366 strings out of 481365
  244180,794899 words of node,token memory allocated
- 9368 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 334 glue, 3 kern, 3 glyph, 2358 attribute, 294 glue
-_spec, 339 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:6,2:29794,3:3569,4:42,5:4633,6:294,7:6117,8:2,9:5739,10:27,11:
+ 9184 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 326 glue, 3 kern, 3 glyph, 2302 attribute, 294 glue
+_spec, 331 attribute_list, 2 write, 1 user_defined nodes
+   avail lists: 1:6,2:29858,3:3569,4:42,5:4633,6:294,7:6125,8:2,9:5739,10:27,11:
 5
  45654 multiletter control sequences out of 65536+600000
- 81 fonts using 9643947 bytes
+ 81 fonts using 9644275 bytes
  51i,12n,72p,1456b,2476s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/local/shar
 e/texmf/fonts/truetype/public/gregoriotex/greciliae-hollow.ttf></usr/local/share
@@ -1785,7 +1792,7 @@ strea/charter/bchbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea/ch
 arter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bch
 ri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-c
 hri8t.pfb>
-Output written on matins_of_the_dead.pdf (24 pages, 181157 bytes).
+Output written on matins_of_the_dead.pdf (24 pages, 181471 bytes).
 
 PDF statistics: 129 PDF objects out of 1000 (max. 8388607)
  85 compressed objects within 1 object stream

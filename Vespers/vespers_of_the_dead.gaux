@@ -1,14 +1,97 @@
 return {
  ["line_heights"]={
+  ["84a094af394422725e5d84f0c659da47103bcc43.1"]={
+   [0]={1,13,9,0,0},
+   ["last"]=0,
+  },
+  ["cbb541447c8af32509b69ea6acef8b85f18e1d65.1"]={
+   [0]={1,13,9,0,0},
+   [60]={2,11,9,0,0},
+   ["last"]=60,
+  },
+  ["33780a8760681df622cc8bb1f2a20ad18340ff4d.1"]={
+   [0]={1,12,9,0,0},
+   ["last"]=0,
+  },
+  ["56c5c5938025c33fce12bceb9bbedf2ab7b99a87.1"]={
+   [0]={1,13,9,0,0},
+   [58]={2,12,9,0,0},
+   ["last"]=58,
+  },
  },
  ["last_syllables"]={
-  ["792a6f6d63eacb7e92113b22033155fe660b8656.1"]={
+  ["3e926915df109473b9d7629c248e57089f7bdbd1.2"]={
+   [20]=20,
+  },
+  ["17ba0bcd1125be0b17d5543f2ffca02682a2240f.1"]={
    [16]=16,
+  },
+  ["e1321ad571acb8734cfb7ea5cbcfdab2f5fb324d.2"]={
+   [19]=19,
+  },
+  ["e588fc6fed444a11aee707dff0d09a78a7ee0954.2"]={
+   [27]=27,
+  },
+  ["e588fc6fed444a11aee707dff0d09a78a7ee0954.1"]={
+   [27]=27,
+  },
+  ["84a094af394422725e5d84f0c659da47103bcc43.1"]={
+   [24]=24,
+  },
+  ["a8b8d1ac5ce606a7c210800e376718a81200dd65.1"]={
+   [27]=27,
+  },
+  ["56c5c5938025c33fce12bceb9bbedf2ab7b99a87.1"]={
+   [30]=30,
+   [31]=31,
+  },
+  ["3e926915df109473b9d7629c248e57089f7bdbd1.1"]={
+   [20]=20,
+  },
+  ["690e00a2b04136b982c4f905c1d3bb357e3141ba.1"]={
+   [11]=11,
+  },
+  ["cbb541447c8af32509b69ea6acef8b85f18e1d65.1"]={
+   [28]=28,
+   [35]=35,
+  },
+  ["e1321ad571acb8734cfb7ea5cbcfdab2f5fb324d.1"]={
+   [19]=19,
+  },
+  ["1b28ffa4e2b35980c5c38ceaea3d38b1f9156275.2"]={
+   [25]=25,
+  },
+  ["288b43d6bedc4ac8d565c388616b7ae8e0d9e4e5.1"]={
+   [38]=38,
+   [29]=29,
   },
   ["a450fe7b9a29d21728aabce4ca1ca85369d0add3.1"]={
    [28]=28,
    [61]=61,
    [79]=79,
+  },
+  ["502d5c0783db7aed37eb5ad219f502d6c452d9ac.1"]={
+   [26]=26,
+   [33]=33,
+  },
+  ["f10734b96722c807e14534902dc2dbcc09da4ff5.1"]={
+   [14]=14,
+  },
+  ["502d5c0783db7aed37eb5ad219f502d6c452d9ac.2"]={
+   [26]=26,
+   [33]=33,
+  },
+  ["1b28ffa4e2b35980c5c38ceaea3d38b1f9156275.1"]={
+   [25]=25,
+  },
+  ["792a6f6d63eacb7e92113b22033155fe660b8656.2"]={
+   [16]=16,
+  },
+  ["33780a8760681df622cc8bb1f2a20ad18340ff4d.1"]={
+   [24]=24,
+  },
+  ["792a6f6d63eacb7e92113b22033155fe660b8656.1"]={
+   [16]=16,
   },
  },
  ["saved_lengths"]={
@@ -16,7 +99,27 @@ return {
  ["saved_newline_before_euouae"]={
  },
  ["state_hashes"]={
-  ["792a6f6d63eacb7e92113b22033155fe660b8656.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["3e926915df109473b9d7629c248e57089f7bdbd1.2"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["17ba0bcd1125be0b17d5543f2ffca02682a2240f.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["e1321ad571acb8734cfb7ea5cbcfdab2f5fb324d.2"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["e588fc6fed444a11aee707dff0d09a78a7ee0954.2"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["e588fc6fed444a11aee707dff0d09a78a7ee0954.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["84a094af394422725e5d84f0c659da47103bcc43.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["a8b8d1ac5ce606a7c210800e376718a81200dd65.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["56c5c5938025c33fce12bceb9bbedf2ab7b99a87.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["3e926915df109473b9d7629c248e57089f7bdbd1.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["690e00a2b04136b982c4f905c1d3bb357e3141ba.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["cbb541447c8af32509b69ea6acef8b85f18e1d65.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["e1321ad571acb8734cfb7ea5cbcfdab2f5fb324d.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["1b28ffa4e2b35980c5c38ceaea3d38b1f9156275.2"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["288b43d6bedc4ac8d565c388616b7ae8e0d9e4e5.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
   ["a450fe7b9a29d21728aabce4ca1ca85369d0add3.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["502d5c0783db7aed37eb5ad219f502d6c452d9ac.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["f10734b96722c807e14534902dc2dbcc09da4ff5.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["502d5c0783db7aed37eb5ad219f502d6c452d9ac.2"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["1b28ffa4e2b35980c5c38ceaea3d38b1f9156275.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["792a6f6d63eacb7e92113b22033155fe660b8656.2"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["33780a8760681df622cc8bb1f2a20ad18340ff4d.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["792a6f6d63eacb7e92113b22033155fe660b8656.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
  },
 }
